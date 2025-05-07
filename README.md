@@ -3,6 +3,7 @@
 
 👋 About Me<br>Hi there! I'm a BTech undergraduate passionate about coding and problem-solving. Currently, I'm diving deep into web technologies and have almost completed my journey with Data Structures & Algorithms .<br><br>🚀 What I'm Learning<br>Frontend & Backend Web Development 🌐<br>Optimizing DSA for competitive programming 💡<br>Exploring frameworks & modern tech  stacks
 
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mufasa5463) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmay_g10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Chinmayg_10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinmaygupta032@gmail.com) 
