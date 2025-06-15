@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack web applications to strengthen my development skills.<br>👯 I’m looking to collaborate on Open source projects, especially those involving React, Next.js, or general web development.<br>🤝 I’m looking for help with finding internship opportunities in full-stack or frontend development roles.<br>🌱 I’m currently learning  Next.js, advanced JavaScript concepts<br>💬 Ask me about React, responsive UI development, DSA in C++, or how I manage projects as a student developer.
+🔭 I’m currently working on building full-stack web applications to strengthen my development skills.<br>👯 I’m looking to collaborate on Open source projects, especially those involving React, Next.js, or general web development.<br>🤝 I’m looking for help with finding internship opportunities in full-stack or frontend development roles.<br>🌱 I’m currently learning  Next.js, advanced JavaScript concepts.<br>💬 Ask me about React, responsive UI development, DSA in C++, or how I manage projects as a student developer.
 
 
 ## 🌐 Socials:
